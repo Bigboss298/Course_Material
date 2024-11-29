@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAr1KkOt3un0CzeaSnHPeLGwAAAAACAAAAAAAQZgAAAAEAACAAAABOuxRRzGl3HvumSCkRX0rohX+HHFASTwPcVIxwRAIzMAAAAAAOgAAAAAIAACAAAADZzT/C+5IYBYM0PokH7gIYYM7PLmCezu77xeC1v5J+7CAAAABBXQID30t4tUnFLXlzq9b4ADh6PcTq42eMUaGo828Qc0AAAAAoJN/FS6L01HhUaoIalNVi/0qq1ggueYCfQDMQHoOxAlYKbGEazjvPHUcQRnE5SomAZCt+1F0MDmwsNQjkUhom</EncryptedPassword>
+    <History>True|2024-11-03T01:24:53.2968810Z||;False|2024-11-03T02:23:08.8120066+01:00||;False|2024-11-03T02:22:09.2248735+01:00||;True|2024-11-03T02:16:20.7786600+01:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="MyConnection">
+      <Value>Server=MYSQL1001.site4now.net%3bDatabase=db_aaee9a_crsmat%3bUid=aaee9a_crsmat%3bPwd=crsmat001%3bAllow User Variables=true%3b Pooling=true%3b Max Pool Size=20%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
